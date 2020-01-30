@@ -11,7 +11,7 @@ My skills include:
 -	Web Development; and
 -	Operating System Management.
 
-
+I enjoy being given a problem to tackle and then finding and innovative solution to it. 
 
 Outside of my carrer skills I enjoy travelling, skiing, skateboarding, playing video games and playing the bass guitar.
 
