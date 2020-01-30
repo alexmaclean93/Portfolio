@@ -3,7 +3,7 @@
 
 ### About Me
 
-Thank you for taking the time to look at my Portfolio. I am currently nearing completion of my first year of IT Programming and am looking for summer employment in the IT industry for my co-op work term. 
+Thank you for taking the time to look at my Portfolio. I am currently nearing completion of my first year of IT Programming at NSCC and am looking for summer employment in the IT industry for my co-op work term. 
 
 My skills include: 
 -	Programming (in python, java and C);
@@ -11,7 +11,9 @@ My skills include:
 -	Web Development; and
 -	Operating System Management.
 
-Outside of my carrer skills I enjoy travelling, skiing, playing video games, skateboarding and playing the bass guitar.
+
+
+Outside of my carrer skills I enjoy travelling, skiing, skateboarding, playing video games and playing the bass guitar.
 
 If you wish to contact me you can reach me any of these ways:
 -	Email
