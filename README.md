@@ -42,14 +42,14 @@ PHP/Laravel "Social Media Feed"
 This is a website I created using php and Laravel. It is a social media type websites that allows for the creation and viewing of image posts.
 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-02.png?raw=true" width="100%"></img> 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-01.png?raw=true" width="50%"></img> 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-03.png?raw=true" width="50%"></img> 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-04.png?raw=true" width="50%"></img> 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-05.png?raw=true" width="50%"></img> 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-06.png?raw=true" width="50%"></img> 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-07.png?raw=true" width="50%"></img>
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-08.png?raw=true" width="50%"></img>
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-09.png?raw=true" width="50%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-01.png?raw=true" width="45%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-03.png?raw=true" width="45%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-04.png?raw=true" width="45%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-05.png?raw=true" width="45%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-06.png?raw=true" width="45%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-07.png?raw=true" width="45%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-08.png?raw=true" width="45%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-09.png?raw=true" width="45%"></img>
 
 
 
