@@ -36,9 +36,12 @@ Android Quiz Builder
 
 This is an example of the work that I have completed recently. It is and Android quiz building app that builds the quiz built off a supplied csv with answer and questions pairs.
 
-![Android1](images/Android/Android-01.png)
-![Android 01](https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-01.png?raw=true)
-
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-01.png?raw=true" width="30%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-02.png?raw=true" width="30%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-03.png?raw=true" width="30%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-04.png?raw=true" width="30%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-05.png?raw=true" width="30%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-06.png?raw=true" width="30%"></img> 
 
 ### Key Learnings
 
