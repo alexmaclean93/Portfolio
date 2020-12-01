@@ -16,25 +16,21 @@ I enjoy being given a problem to tackle and then finding and innovative solution
 
 Outside of my carrer skills I enjoy travelling, skiing, skateboarding, playing video games and playing the bass guitar.
 
-### Career Goal
-
-Software Developer skills includes:
--	Think and solve problems;
--	Learn continuously;
--	Manage information;
--	Work with others; and
--	Communicate.
+# ### Career Goal
 
 
-### Skill Area
+#Software Developer skills includes:
+#-	Think and solve problems;
+#-	Learn continuously;
+#-	Manage information;
+#-	Work with others; and
+#-	Communicate.
 
-Think and solve problems
-
-### Examples of work
+### Example of work
 
 Android Quiz Builder
 
-This is an example of the work that I have completed recently. It is and Android quiz building app that builds the quiz built off a supplied csv with answer and questions pairs.
+This is an example of the work that I have completed recently. It is and Android quiz building app that builds the quiz based off a supplied csv with answer and questions pairs.
 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-01.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-02.png?raw=true" width="30%"></img> 
@@ -43,9 +39,9 @@ This is an example of the work that I have completed recently. It is and Android
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-05.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-06.png?raw=true" width="30%"></img> 
 
-### Key Learnings
+# ### Key Learnings
 
-### Conclusion
+# ### Conclusion
 
 If you wish to contact me you can reach me any of these ways:
 -	Email
