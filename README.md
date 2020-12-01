@@ -1,4 +1,4 @@
-# Alex MacLean's Portfolio
+#(Alex MacLean's Portfolio)
 
 
 ### About Me
@@ -16,15 +16,15 @@ I enjoy being given a problem to tackle and then finding and innovative solution
 
 Outside of my carrer skills I enjoy travelling, skiing, skateboarding, playing video games and playing the bass guitar.
 
-# ### Career Goal
+#(###Career Goal)
 
 
-#Software Developer skills includes:
-#-	Think and solve problems;
-#-	Learn continuously;
-#-	Manage information;
-#-	Work with others; and
-#-	Communicate.
+#(Software Developer skills includes:)
+#(-	Think and solve problems;)
+#(-	Learn continuously;)
+#(-	Manage information;)
+#(-	Work with others; and)
+#(-	Communicate.)
 
 ### Example of work
 
@@ -39,9 +39,9 @@ This is an example of the work that I have completed recently. It is and Android
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-05.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-06.png?raw=true" width="30%"></img> 
 
-# ### Key Learnings
+#(### Key Learnings)
 
-# ### Conclusion
+#(### Conclusion)
 
 If you wish to contact me you can reach me any of these ways:
 -	Email
