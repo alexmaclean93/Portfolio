@@ -1,4 +1,4 @@
-### Alex MacLean's Portfolio
+# Alex MacLean's Portfolio
 
 
 ### About Me
@@ -27,7 +27,7 @@ Software Developer skills includes:
 
 ### Example of work
 
-Android Quiz Builder
+#### Android Quiz Builder
 
 This is an example of the work that I have completed recently. It is and Android quiz building app that builds the quiz based off a supplied csv with answer and questions pairs.
 
@@ -38,7 +38,8 @@ This is an example of the work that I have completed recently. It is and Android
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-05.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-06.png?raw=true" width="30%"></img> 
 
-PHP/Laravel "Social Media Feed"
+#### PHP/Laravel "Social Media Feed"
+
 This is a website I created using php and Laravel. It is a social media type websites that allows for the creation and viewing of image posts.
 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-02.png?raw=true" width="100%"></img> 
@@ -50,7 +51,6 @@ This is a website I created using php and Laravel. It is a social media type web
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-07.png?raw=true" width="47%"></img>
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-08.png?raw=true" width="47%"></img>
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-09.png?raw=true" width="47%"></img>
-
 
 
 
