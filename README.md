@@ -31,10 +31,10 @@ Software Developer skills includes:
 
 This is an example of the work that I have completed recently. It is and Android quiz building app that builds the quiz based off a supplied csv with answer and questions pairs.
 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/C#-game/Game01.png?raw=true" width="44%"></img>
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/C#-game/Game02.png?raw=true" width="44%"></img>
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/C#-game/Game03.png?raw=true" width="44%"></img>
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/C#-game/Game04.png?raw=true" width="44%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/CSharpGame/Game01.png?raw=true" width="44%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/CSharpGame/Game02.png?raw=true" width="44%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/CSharpGame/Game03.png?raw=true" width="44%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/CSharpGame/Game04.png?raw=true" width="44%"></img>
 
 <!--- <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-01.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-02.png?raw=true" width="30%"></img> 
