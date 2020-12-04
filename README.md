@@ -31,12 +31,17 @@ Software Developer skills includes:
 
 This is an example of the work that I have completed recently. It is and Android quiz building app that builds the quiz based off a supplied csv with answer and questions pairs.
 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-01.png?raw=true" width="30%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/C#-game/Game01.png?raw=true" width="44%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/C#-game/Game02.png?raw=true" width="44%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/C#-game/Game03.png?raw=true" width="44%"></img>
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/C#-game/Game04.png?raw=true" width="44%"></img>
+
+<!--- <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-01.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-02.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-03.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-04.png?raw=true" width="30%"></img> 
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-05.png?raw=true" width="30%"></img> 
-<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-06.png?raw=true" width="30%"></img> 
+<img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/Android/Android-06.png?raw=true" width="30%"></img> --->
 
 #### PHP/Laravel "Social Media Feed"
 
@@ -52,13 +57,11 @@ This is a website I created using php and Laravel. It is a social media type web
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-08.png?raw=true" width="47%"></img>
 <img src="https://github.com/alexmaclean93/Portfolio/blob/master/Images/PHP-Laravel/php-09.png?raw=true" width="47%"></img>
 
-
-
 ### Key Learnings
 
 
 
-<!--- ### Conclusion -->
+### Contact
 
 If you wish to contact me you can reach me any of these ways:
 -	Email
