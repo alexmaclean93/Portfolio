@@ -75,6 +75,8 @@ Both of these examples of work show that when I am presented with a set of probl
 If you wish to contact me you can reach me any of these ways:
 -	Email
 	-	alexmaclean1993@gmail.com
+-	LinkedIn
+	-	www.linkedin.com/in/alex-maclean-01993
 -	Phone
 	-	(902)-301-4199
 -	Facebook
